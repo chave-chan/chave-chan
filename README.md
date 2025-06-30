@@ -33,7 +33,7 @@ and I love building digital experiences that are both functional and enjoyable.
 <!-- Línea en blanco -->
 
 ✨ On my profile, you'll find pinned some of the projects I've developed during my degrees and some hackathons.
-You can also check my [Devpost](https://devpost.com/chave-chan) for more!
+You can also check my [Portfolio](http://aidachavero.my.canva.site) or [Devpost](https://devpost.com/chave-chan) for more!
 
 ---
 
@@ -41,4 +41,3 @@ You can also check my [Devpost](https://devpost.com/chave-chan) for more!
 
 - Email: aidachavero@gmail.com  
 - LinkedIn: [linkedin.com/in/aidachavero](https://www.linkedin.com/in/aidachavero)  
-- Portfolio: [aidachavero.my.canva.site](http://aidachavero.my.canva.site)
