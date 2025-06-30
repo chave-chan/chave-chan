@@ -1,16 +1,37 @@
-## Hi there 👋
+✨ Hey, I'm Aida Chavero! ✨
 
-<!--
-**chave-chan/chave-chan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I hold two degrees from Tecnocampus Mataró-Maresme (Universitat Pompeu Fabra):
+- 📘 **Computer Engineering in Management and Information Systems**
+- 🎮 **Video Game Design and Production**
 
-Here are some ideas to get you started:
+💡 I have a strong interest in **Frontend Development** and **UX/UI Design**,
+and I love building digital experiences that are both functional and enjoyable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 My professional experience includes:
+- 👩‍💻 Junior Software Engineer at PayRetailers
+- 👩‍🏫 Teaching programming at Codelearn
+- 🌐 Frontend development at ESED - Cyber Security
+- 🧠 UX Intern in the Experience Design team at Avanade
+
+🛠️ Technologies I use regularly:
+- HTML5, CSS3, JavaScript, React, Tailwind, Node.js
+- Python, Java, C#, C++, SQL
+- Figma, Adobe Creative Suite, Blender, 3DS Max, Unity
+
+🏆 Notable Projects:
+- **FinTrack** — Winner of PayRetailers' challenge at *UAB The Hack! 2025*
+- **Sensorize** — Winner of HackUPC's 3rd prize at *HackUPC 2024*
+- **After Party – SexEd+** — Winner of *BitsXLaMarató 2024*
+- **Vueling Party Appventure** — Winner of Vueling's challenge and HackUPC's 2nd prize at *HackUPC 2023*
+
+
+✨ On my profile, you'll find pinned some of the projects I've developed during my degrees and some hackathons.
+You can also check my [Devpost](https://devpost.com/chave-chan) for more!
+
+---
+
+📫 How to reach me:
+
+- Email: aidachavero@gmail.com  
+- LinkedIn: [linkedin.com/in/aidachavero](https://www.linkedin.com/in/aidachavero)  
+- Portfolio: [aidachavero.my.canva.site](http://aidachavero.my.canva.site)
