@@ -1,7 +1,7 @@
 # ✨ Hey, I'm Aida Chavero! ✨
 
 🎓 I hold two degrees from Tecnocampus Mataró-Maresme (Universitat Pompeu Fabra):
-- 📘 **Computer Engineering in Management and Information Systems**
+- 💻 **Computer Engineering in Management and Information Systems**
 - 🎮 **Video Game Design and Production**
 
 💡 I have a strong interest in **Frontend Development** and **UX/UI Design**,
